@@ -64,7 +64,7 @@ There are a set of rules to keep in mind:
 
   > You are about to add your code to a stable branch. If your feature-branch tests fail, there is a high chance that your destination branch build will fail too. Additionally, you need to apply code style check before making a Pull Request. It aids readability and reduces the chance of formatting fixes being mingled in with actual changes.
 
-- Use [this](./.gitignore) `.gitignore` file.
+- Use [a `.gitignore` file appropriate for your project](https://www.gitignore.io/).
 
   _Why:_
 
